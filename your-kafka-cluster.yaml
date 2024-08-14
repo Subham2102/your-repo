@@ -9,5 +9,3 @@ spec:
       offsets.topic.replication.factor: 3
   zookeeper:
     replicas: 3
-    storage: 1Gi
-      type: ephemeral
